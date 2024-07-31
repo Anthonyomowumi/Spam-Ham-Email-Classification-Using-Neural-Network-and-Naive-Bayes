@@ -10,3 +10,8 @@
 # Language and Libraries Used
 ### Python Language
 ### Required libraries: pandas, numpy, scikit-learn, imblearn, pickle, Keras and Tensorflow
+
+![Spam download](https://github.com/user-attachments/assets/f6a3ea74-f02a-4139-ac7e-e2ac4e7fdc4d)
+
+
+![Ham download](https://github.com/user-attachments/assets/0818419f-eb45-452f-8d94-52e640daa4ef)
